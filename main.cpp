@@ -1,3 +1,6 @@
+// Course:COMSC-200-5001
+// By: John Chin-Jew, Jagminder Shergill
+
 #include <iostream>
 #include <string>
 
