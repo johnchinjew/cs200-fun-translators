@@ -3,8 +3,6 @@
 
 // Copycat Translator simply repeats your exact message back to you
 
-// #include <...>
-
 #include "Translator.h"
 
 class CopycatTranslator : public Translator {
